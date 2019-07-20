@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prajjwal&#39;s Blog</title>
-    <link>pnijhara.github.io/</link>
+    <link>https://pnijhara.github.io/</link>
     <description>Recent content on Prajjwal&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Jul 2019 21:45:49 +0530</lastBuildDate>
     
-	<atom:link href="pnijhara.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pnijhara.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>pnijhara.github.io/post/test/</link>
+      <link>https://pnijhara.github.io/post/test/</link>
       <pubDate>Sat, 20 Jul 2019 21:45:49 +0530</pubDate>
       
-      <guid>pnijhara.github.io/post/test/</guid>
+      <guid>https://pnijhara.github.io/post/test/</guid>
       <description>test case1</description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>pnijhara.github.io/post/hello/</link>
+      <link>https://pnijhara.github.io/post/hello/</link>
       <pubDate>Sat, 20 Jul 2019 21:10:43 +0530</pubDate>
       
-      <guid>pnijhara.github.io/post/hello/</guid>
+      <guid>https://pnijhara.github.io/post/hello/</guid>
       <description>Hello this is my first blogpost</description>
     </item>
     
