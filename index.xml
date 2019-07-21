@@ -6,10 +6,19 @@
     <description>Recent content on pnijhara&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jul 2019 23:43:26 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 00:18:53 +0530</lastBuildDate>
     
 	<atom:link href="https://pnijhara.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About Me</title>
+      <link>https://pnijhara.github.io/about/</link>
+      <pubDate>Mon, 22 Jul 2019 00:18:53 +0530</pubDate>
+      
+      <guid>https://pnijhara.github.io/about/</guid>
+      <description>I am Prajjwal Nijhara (~ PNIJHARA). I am currently studying Electrical Engineering at Zakir Husain College of Engineering and Technology.</description>
+    </item>
     
     <item>
       <title>Hello World</title>
