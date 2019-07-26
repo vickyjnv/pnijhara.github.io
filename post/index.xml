@@ -6,18 +6,20 @@
     <description>Recent content in Posts on pnijhara&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jul 2019 23:43:26 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2019 16:43:08 +0530</lastBuildDate>
     
 	<atom:link href="https://pnijhara.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello World</title>
-      <link>https://pnijhara.github.io/post/hello/</link>
-      <pubDate>Sun, 21 Jul 2019 23:43:26 +0530</pubDate>
+      <title>Hello</title>
+      <link>https://pnijhara.github.io/2019/07/hello/</link>
+      <pubDate>Fri, 26 Jul 2019 16:43:08 +0530</pubDate>
       
-      <guid>https://pnijhara.github.io/post/hello/</guid>
-      <description>Hello this is my first blog</description>
+      <guid>https://pnijhara.github.io/2019/07/hello/</guid>
+      <description>&lt;p&gt;I decided to gift myself a new blog and here is the result ;)&lt;/p&gt;
+
+&lt;p&gt;This blog was created on Hugo.&lt;/p&gt;</description>
     </item>
     
   </channel>
