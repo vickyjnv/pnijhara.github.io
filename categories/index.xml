@@ -6,7 +6,7 @@
     <description>Recent content in Categories on pnijhara&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jul 2019 16:43:08 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2019 17:18:26 +0530</lastBuildDate>
     
 	<atom:link href="https://pnijhara.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Blog</title>
       <link>https://pnijhara.github.io/categories/blog/</link>
-      <pubDate>Fri, 26 Jul 2019 16:43:08 +0530</pubDate>
+      <pubDate>Tue, 06 Aug 2019 17:18:26 +0530</pubDate>
       
       <guid>https://pnijhara.github.io/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random dicovery</title>
+      <link>https://pnijhara.github.io/categories/random-dicovery/</link>
+      <pubDate>Tue, 06 Aug 2019 17:18:26 +0530</pubDate>
+      
+      <guid>https://pnijhara.github.io/categories/random-dicovery/</guid>
       <description></description>
     </item>
     
