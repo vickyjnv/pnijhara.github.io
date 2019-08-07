@@ -12,29 +12,20 @@
     
     
     <item>
-      <title>Blog</title>
+      <title>Random discovery</title>
+      <link>https://pnijhara.github.io/categories/random-discovery/</link>
+      <pubDate>Tue, 06 Aug 2019 17:18:26 +0530</pubDate>
+      
+      <guid>https://pnijhara.github.io/categories/random-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
       <link>https://pnijhara.github.io/categories/blog/</link>
       <pubDate>Tue, 06 Aug 2019 17:18:26 +0530</pubDate>
       
       <guid>https://pnijhara.github.io/categories/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Random dicovery</title>
-      <link>https://pnijhara.github.io/categories/random-dicovery/</link>
-      <pubDate>Tue, 06 Aug 2019 17:18:26 +0530</pubDate>
-      
-      <guid>https://pnijhara.github.io/categories/random-dicovery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Random discovery</title>
-      <link>https://pnijhara.github.io/categories/random-discovery/</link>
-      <pubDate>Fri, 26 Jul 2019 16:43:08 +0530</pubDate>
-      
-      <guid>https://pnijhara.github.io/categories/random-discovery/</guid>
       <description></description>
     </item>
     
