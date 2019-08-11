@@ -3,100 +3,100 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pnijhara.github.io/categories/</loc>
+    <loc>https://pnijhara.me/categories/blog/</loc>
     <lastmod>2019-08-06T17:18:26+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pnijhara.github.io/2019/08/create-your-own-blog-in-30-minutes-using-hugo-a-static-site-generator-written-in-go/</loc>
-    <lastmod>2019-08-06T17:18:26+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pnijhara.github.io/post/</loc>
+    <loc>https://pnijhara.me/categories/</loc>
     <lastmod>2019-08-06T17:18:26+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pnijhara.github.io/categories/random-discovery/</loc>
+    <loc>https://pnijhara.me/2019/08/create-your-own-blog-in-30-minutes-using-hugo-a-static-site-generator-written-in-go/</loc>
+    <lastmod>2019-08-06T17:18:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/post/</loc>
     <lastmod>2019-08-06T17:18:26+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pnijhara.github.io/tags/</loc>
+    <loc>https://pnijhara.me/categories/random-discovery/</loc>
     <lastmod>2019-08-06T17:18:26+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pnijhara.github.io/categories/blog/</loc>
+    <loc>https://pnijhara.me/tags/</loc>
     <lastmod>2019-08-06T17:18:26+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pnijhara.github.io/tags/create-blog/</loc>
+    <loc>https://pnijhara.me/tags/create-blog/</loc>
     <lastmod>2019-08-06T17:18:26+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pnijhara.github.io/tags/go-programming-language/</loc>
+    <loc>https://pnijhara.me/tags/go-programming-language/</loc>
     <lastmod>2019-08-06T17:18:26+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pnijhara.github.io/tags/hugo-blog/</loc>
+    <loc>https://pnijhara.me/tags/hugo-blog/</loc>
     <lastmod>2019-08-06T17:18:26+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pnijhara.github.io/</loc>
+    <loc>https://pnijhara.me/</loc>
     <lastmod>2019-08-06T17:18:26+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pnijhara.github.io/2019/07/hello/</loc>
+    <loc>https://pnijhara.me/2019/07/hello/</loc>
     <lastmod>2019-07-26T16:43:08+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://pnijhara.github.io/tags/blog/</loc>
-    <lastmod>2019-07-26T16:43:08+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pnijhara.github.io/tags/disqus/</loc>
+    <loc>https://pnijhara.me/tags/blog/</loc>
     <lastmod>2019-07-26T16:43:08+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pnijhara.github.io/tags/google-anlytics/</loc>
+    <loc>https://pnijhara.me/tags/disqus/</loc>
     <lastmod>2019-07-26T16:43:08+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pnijhara.github.io/tags/hugo/</loc>
+    <loc>https://pnijhara.me/tags/google-anlytics/</loc>
     <lastmod>2019-07-26T16:43:08+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pnijhara.github.io/about/</loc>
+    <loc>https://pnijhara.me/tags/hugo/</loc>
+    <lastmod>2019-07-26T16:43:08+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/about/</loc>
     <lastmod>2019-07-22T00:18:53+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://pnijhara.github.io/archives/</loc>
+    <loc>https://pnijhara.me/archives/</loc>
     <priority>0</priority>
   </url>
   

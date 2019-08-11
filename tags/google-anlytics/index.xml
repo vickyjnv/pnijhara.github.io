@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>google anlytics on pnijhara&#39;s blog</title>
-    <link>https://pnijhara.github.io/tags/google-anlytics/</link>
+    <link>https://pnijhara.me/tags/google-anlytics/</link>
     <description>Recent content in google anlytics on pnijhara&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Jul 2019 16:43:08 +0530</lastBuildDate>
     
-	<atom:link href="https://pnijhara.github.io/tags/google-anlytics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pnijhara.me/tags/google-anlytics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello</title>
-      <link>https://pnijhara.github.io/2019/07/hello/</link>
+      <link>https://pnijhara.me/2019/07/hello/</link>
       <pubDate>Fri, 26 Jul 2019 16:43:08 +0530</pubDate>
       
-      <guid>https://pnijhara.github.io/2019/07/hello/</guid>
+      <guid>https://pnijhara.me/2019/07/hello/</guid>
       <description>&lt;p&gt;I decided to gift myself a new blog and here is the result :)&lt;/p&gt;
 
 &lt;p&gt;This blog was created on Hugo.&lt;/p&gt;</description>
