@@ -6,10 +6,21 @@
     <description>Recent content in go programming language on pnijhara&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Aug 2019 17:18:26 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2019 01:09:28 +0530</lastBuildDate>
     
 	<atom:link href="https://pnijhara.me/tags/go-programming-language/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Uncovered points associated with Hugo</title>
+      <link>https://pnijhara.me/2019/08/uncovered-points-associated-with-hugo/</link>
+      <pubDate>Tue, 20 Aug 2019 01:09:28 +0530</pubDate>
+      
+      <guid>https://pnijhara.me/2019/08/uncovered-points-associated-with-hugo/</guid>
+      <description>In the last article, I tried to cover almost every point required for creating your blog. However, there are still some points left which remain uncovered in the previous section.
+This article will cover those points which I feel are not covered in the official documentation or if covered are not much focussed in there quick start guide.
+Point 1 Most of the time I read questions on the internet of people asking that even after creating or copying the config.</description>
+    </item>
     
     <item>
       <title>Create your own blog in 30 minutes using Hugo, a static site generator written in Go</title>
