@@ -6,13 +6,31 @@
     <description>Recent content in Categories on pnijhara&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Aug 2019 01:09:28 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2019 01:37:51 +0530</lastBuildDate>
     
 	<atom:link href="https://pnijhara.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>blog</title>
+      <title>my thoughts</title>
+      <link>https://pnijhara.me/categories/my-thoughts/</link>
+      <pubDate>Sun, 08 Sep 2019 01:37:51 +0530</pubDate>
+      
+      <guid>https://pnijhara.me/categories/my-thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>offtopic</title>
+      <link>https://pnijhara.me/categories/offtopic/</link>
+      <pubDate>Sun, 08 Sep 2019 01:37:51 +0530</pubDate>
+      
+      <guid>https://pnijhara.me/categories/offtopic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
       <link>https://pnijhara.me/categories/blog/</link>
       <pubDate>Tue, 20 Aug 2019 01:09:28 +0530</pubDate>
       

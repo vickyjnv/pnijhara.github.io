@@ -3,12 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pnijhara.me/categories/blog/</loc>
-    <lastmod>2019-08-20T01:09:28+05:30</lastmod>
+    <loc>https://pnijhara.me/tags/blog/</loc>
+    <lastmod>2019-09-08T01:37:51+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://pnijhara.me/categories/</loc>
+    <lastmod>2019-09-08T01:37:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/categories/my-thoughts/</loc>
+    <lastmod>2019-09-08T01:37:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/categories/offtopic/</loc>
+    <lastmod>2019-09-08T01:37:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/</loc>
+    <lastmod>2019-09-08T01:37:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/post/</loc>
+    <lastmod>2019-09-08T01:37:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/2019/09/religion/</loc>
+    <lastmod>2019-09-08T01:37:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/tags/religion/</loc>
+    <lastmod>2019-09-08T01:37:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/tags/</loc>
+    <lastmod>2019-09-08T01:37:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/categories/blog/</loc>
     <lastmod>2019-08-20T01:09:28+05:30</lastmod>
   </url>
   
@@ -28,22 +68,7 @@
   </url>
   
   <url>
-    <loc>https://pnijhara.me/</loc>
-    <lastmod>2019-08-20T01:09:28+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pnijhara.me/post/</loc>
-    <lastmod>2019-08-20T01:09:28+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pnijhara.me/categories/random-discovery/</loc>
-    <lastmod>2019-08-20T01:09:28+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pnijhara.me/tags/</loc>
     <lastmod>2019-08-20T01:09:28+05:30</lastmod>
   </url>
   
@@ -55,11 +80,6 @@
   <url>
     <loc>https://pnijhara.me/2019/08/create-your-own-blog-in-30-minutes-using-hugo-a-static-site-generator-written-in-go/</loc>
     <lastmod>2019-08-06T17:18:26+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pnijhara.me/tags/blog/</loc>
-    <lastmod>2019-07-26T16:43:08+05:30</lastmod>
   </url>
   
   <url>
