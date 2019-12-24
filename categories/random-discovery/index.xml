@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Random discovery on pnijhara&#39;s blog</title>
@@ -30,7 +30,7 @@ Point 1 Most of the time I read questions on the internet of people asking that 
       <guid>https://pnijhara.me/2019/08/create-your-own-blog-in-30-minutes-using-hugo-a-static-site-generator-written-in-go/</guid>
       <description>Do you know you can create your blog without any knowledge of content management system or actual knowledge of creating a website, setting it, styling it or improving it? Well, you can with the world’s fastest framework for building websites that is Hugo
 Before going forward it is suggested that you must have an account on Github for hosting your blog.
-Why Hugo?  Hugo is the fastest tool of its kind.</description>
+Why Hugo?   Hugo is the fastest tool of its kind.</description>
     </item>
     
     <item>
@@ -40,7 +40,6 @@ Why Hugo?  Hugo is the fastest tool of its kind.</description>
       
       <guid>https://pnijhara.me/2019/07/hello/</guid>
       <description>&lt;p&gt;I decided to gift myself a new blog and here is the result :)&lt;/p&gt;
-
 &lt;p&gt;This blog was created on Hugo.&lt;/p&gt;</description>
     </item>
     

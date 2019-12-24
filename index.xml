@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pnijhara&#39;s blog</title>
@@ -6,10 +6,21 @@
     <description>Recent content on pnijhara&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Sep 2019 01:37:51 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2019 23:39:06 +0530</lastBuildDate>
     
 	<atom:link href="https://pnijhara.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Announcement</title>
+      <link>https://pnijhara.me/2019/12/announcement/</link>
+      <pubDate>Tue, 17 Dec 2019 23:39:06 +0530</pubDate>
+      
+      <guid>https://pnijhara.me/2019/12/announcement/</guid>
+      <description>&lt;p&gt;Started this blogging website to summarize my learning weakly. However, due to some social issues and college work, I was not able to keep up the work. A list that I prepared for learning and writing was not followed by me. Though now I cannot summarize the whole semester learnings weakly, I decided to summarize them semester wise till now starting from my journey to college that is from 1st sem to 3rd sem. The three blog series will cover almost all the topics from starting my journey at Aligarh Muslim Unversity to me as a 3rd semester studying Electrical Engineering student, from technical learnings to life lessons, from hackathons to club etc.&lt;/p&gt;
+&lt;p&gt;Apart from that, I will be resuming my weakly writings from 2020. Hope that would be a great start.&lt;/p&gt;
+&lt;p&gt;Also, I have removed links of Instagram and facebook from this website as I am not continuing them. You can connect me on the mail or via twitter.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Religion</title>
@@ -40,7 +51,7 @@ Point 1 Most of the time I read questions on the internet of people asking that 
       <guid>https://pnijhara.me/2019/08/create-your-own-blog-in-30-minutes-using-hugo-a-static-site-generator-written-in-go/</guid>
       <description>Do you know you can create your blog without any knowledge of content management system or actual knowledge of creating a website, setting it, styling it or improving it? Well, you can with the world’s fastest framework for building websites that is Hugo
 Before going forward it is suggested that you must have an account on Github for hosting your blog.
-Why Hugo?  Hugo is the fastest tool of its kind.</description>
+Why Hugo?   Hugo is the fastest tool of its kind.</description>
     </item>
     
     <item>
@@ -50,7 +61,6 @@ Why Hugo?  Hugo is the fastest tool of its kind.</description>
       
       <guid>https://pnijhara.me/2019/07/hello/</guid>
       <description>&lt;p&gt;I decided to gift myself a new blog and here is the result :)&lt;/p&gt;
-
 &lt;p&gt;This blog was created on Hugo.&lt;/p&gt;</description>
     </item>
     

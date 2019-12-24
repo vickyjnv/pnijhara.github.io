@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on pnijhara&#39;s blog</title>
@@ -6,10 +6,28 @@
     <description>Recent content in Categories on pnijhara&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Sep 2019 01:37:51 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2019 23:39:06 +0530</lastBuildDate>
     
 	<atom:link href="https://pnijhara.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>announcements</title>
+      <link>https://pnijhara.me/categories/announcements/</link>
+      <pubDate>Tue, 17 Dec 2019 23:39:06 +0530</pubDate>
+      
+      <guid>https://pnijhara.me/categories/announcements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future</title>
+      <link>https://pnijhara.me/categories/future/</link>
+      <pubDate>Tue, 17 Dec 2019 23:39:06 +0530</pubDate>
+      
+      <guid>https://pnijhara.me/categories/future/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>my thoughts</title>
