@@ -3,43 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pnijhara.me/2019/12/announcement/</loc>
-    <lastmod>2019-12-17T23:39:06+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pnijhara.me/categories/announcements/</loc>
-    <lastmod>2019-12-17T23:39:06+05:30</lastmod>
+    <loc>https://pnijhara.me/categories/blog/</loc>
+    <lastmod>2019-12-27T14:37:54+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://pnijhara.me/categories/</loc>
-    <lastmod>2019-12-17T23:39:06+05:30</lastmod>
+    <lastmod>2019-12-27T14:37:54+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://pnijhara.me/tags/deep-thoughts/</loc>
-    <lastmod>2019-12-17T23:39:06+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pnijhara.me/categories/future/</loc>
-    <lastmod>2019-12-17T23:39:06+05:30</lastmod>
+    <loc>https://pnijhara.me/tags/internet/</loc>
+    <lastmod>2019-12-27T14:37:54+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://pnijhara.me/</loc>
-    <lastmod>2019-12-17T23:39:06+05:30</lastmod>
+    <lastmod>2019-12-27T14:37:54+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://pnijhara.me/post/</loc>
-    <lastmod>2019-12-17T23:39:06+05:30</lastmod>
+    <lastmod>2019-12-27T14:37:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/categories/random-discovery/</loc>
+    <lastmod>2019-12-27T14:37:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/tags/roc/</loc>
+    <lastmod>2019-12-27T14:37:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/2019/12/roc-special-thanks/</loc>
+    <lastmod>2019-12-27T14:37:54+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://pnijhara.me/tags/</loc>
-    <lastmod>2019-12-17T23:39:06+05:30</lastmod>
+    <lastmod>2019-12-27T14:37:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/tags/thanks/</loc>
+    <lastmod>2019-12-27T14:37:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/2019/12/announcement/</loc>
+    <lastmod>2019-12-24T23:39:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/categories/announcements/</loc>
+    <lastmod>2019-12-24T23:39:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/tags/deep-thoughts/</loc>
+    <lastmod>2019-12-24T23:39:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/categories/future/</loc>
+    <lastmod>2019-12-24T23:39:06+05:30</lastmod>
   </url>
   
   <url>
@@ -68,11 +98,6 @@
   </url>
   
   <url>
-    <loc>https://pnijhara.me/categories/blog/</loc>
-    <lastmod>2019-08-20T01:09:28+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pnijhara.me/tags/create-blog/</loc>
     <lastmod>2019-08-20T01:09:28+05:30</lastmod>
   </url>
@@ -84,11 +109,6 @@
   
   <url>
     <loc>https://pnijhara.me/tags/hugo-blog/</loc>
-    <lastmod>2019-08-20T01:09:28+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pnijhara.me/categories/random-discovery/</loc>
     <lastmod>2019-08-20T01:09:28+05:30</lastmod>
   </url>
   
