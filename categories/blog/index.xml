@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on pnijhara&#39;s blog</title>
+    <title>Blog on pnijhara&#39;s blog</title>
     <link>https://pnijhara.me/categories/blog/</link>
-    <description>Recent content in blog on pnijhara&#39;s blog</description>
+    <description>Recent content in Blog on pnijhara&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Jan 2020 21:29:12 +0530</lastBuildDate>
@@ -62,7 +62,7 @@ First month, away from home was like jumping straight into hell.</description>
       <pubDate>Wed, 01 Jan 2020 10:29:28 +0530</pubDate>
       
       <guid>https://pnijhara.me/2020/01/hugo-vs-jekyll-a-comparison-based-on-personal-usage/</guid>
-      <description>Well, I am not writing this blog because I have used Hugo for making my website. It is just that I wanted to compare the powers of Hugo and Jekyll. There is a whole list of static-site generators you can use and some of them are listed here. However, I am just comparing these 2 as they are widely used.
+      <description>Well, I am not writing this blog because I have used Hugo for making my website. It is just that I wanted to compare the powers of Hugo and Jekyll. There is a whole list of static site generators you can use and some of them are listed here. However, I am just comparing these 2 as they are widely used.
  NOTE: I too don&#39;t know why I chose Hugo over Jekyll for making this website.</description>
     </item>
     
