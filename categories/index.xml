@@ -6,7 +6,7 @@
     <description>Recent content in Categories on pnijhara&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jan 2020 02:50:26 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2020 21:29:12 +0530</lastBuildDate>
     
 	<atom:link href="https://pnijhara.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>blog</title>
       <link>https://pnijhara.me/categories/blog/</link>
-      <pubDate>Sat, 04 Jan 2020 02:50:26 +0530</pubDate>
+      <pubDate>Thu, 09 Jan 2020 21:29:12 +0530</pubDate>
       
       <guid>https://pnijhara.me/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report</title>
+      <link>https://pnijhara.me/categories/report/</link>
+      <pubDate>Thu, 09 Jan 2020 21:29:12 +0530</pubDate>
+      
+      <guid>https://pnijhara.me/categories/report/</guid>
       <description></description>
     </item>
     
