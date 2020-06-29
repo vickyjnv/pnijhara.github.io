@@ -3,12 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pnijhara.me/categories/blog/</loc>
-    <lastmod>2020-06-24T12:00:23+05:30</lastmod>
+    <loc>https://pnijhara.me/categories/</loc>
+    <lastmod>2020-06-29T21:53:16+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://pnijhara.me/categories/</loc>
+    <loc>https://pnijhara.me/tags/imdb/</loc>
+    <lastmod>2020-06-29T21:53:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/tags/nodejs/</loc>
+    <lastmod>2020-06-29T21:53:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/</loc>
+    <lastmod>2020-06-29T21:53:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/post/</loc>
+    <lastmod>2020-06-29T21:53:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/categories/random-discovery/</loc>
+    <lastmod>2020-06-29T21:53:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/tags/</loc>
+    <lastmod>2020-06-29T21:53:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/tags/techcodemonk/</loc>
+    <lastmod>2020-06-29T21:53:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/2020/06/web-scraping-with-nodejs-building-an-imdb-scraper/</loc>
+    <lastmod>2020-06-29T21:53:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/categories/web-scraping/</loc>
+    <lastmod>2020-06-29T21:53:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/tags/web-scraping/</loc>
+    <lastmod>2020-06-29T21:53:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnijhara.me/categories/blog/</loc>
     <lastmod>2020-06-24T12:00:23+05:30</lastmod>
   </url>
   
@@ -24,21 +74,6 @@
   
   <url>
     <loc>https://pnijhara.me/tags/linkedin/</loc>
-    <lastmod>2020-06-24T12:00:23+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pnijhara.me/</loc>
-    <lastmod>2020-06-24T12:00:23+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pnijhara.me/post/</loc>
-    <lastmod>2020-06-24T12:00:23+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pnijhara.me/tags/</loc>
     <lastmod>2020-06-24T12:00:23+05:30</lastmod>
   </url>
   
@@ -119,11 +154,6 @@
   
   <url>
     <loc>https://pnijhara.me/tags/jekyll-blog/</loc>
-    <lastmod>2020-01-01T10:29:28+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pnijhara.me/categories/random-discovery/</loc>
     <lastmod>2020-01-01T10:29:28+05:30</lastmod>
   </url>
   
