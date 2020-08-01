@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on pnijhara&#39;s blog</title>
-    <link>https://pnijhara.me/categories/</link>
+    <link>https://pnijhara.github.io/categories/</link>
     <description>Recent content in Categories on pnijhara&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Jun 2020 21:53:16 +0530</lastBuildDate>
     
-	<atom:link href="https://pnijhara.me/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pnijhara.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Random discovery</title>
-      <link>https://pnijhara.me/categories/random-discovery/</link>
+      <link>https://pnijhara.github.io/categories/random-discovery/</link>
       <pubDate>Mon, 29 Jun 2020 21:53:16 +0530</pubDate>
       
-      <guid>https://pnijhara.me/categories/random-discovery/</guid>
+      <guid>https://pnijhara.github.io/categories/random-discovery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web-scraping</title>
-      <link>https://pnijhara.me/categories/web-scraping/</link>
+      <link>https://pnijhara.github.io/categories/web-scraping/</link>
       <pubDate>Mon, 29 Jun 2020 21:53:16 +0530</pubDate>
       
-      <guid>https://pnijhara.me/categories/web-scraping/</guid>
+      <guid>https://pnijhara.github.io/categories/web-scraping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>https://pnijhara.me/categories/blog/</link>
+      <link>https://pnijhara.github.io/categories/blog/</link>
       <pubDate>Wed, 24 Jun 2020 12:00:23 +0530</pubDate>
       
-      <guid>https://pnijhara.me/categories/blog/</guid>
+      <guid>https://pnijhara.github.io/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unpopular Opinion</title>
-      <link>https://pnijhara.me/categories/unpopular-opinion/</link>
+      <link>https://pnijhara.github.io/categories/unpopular-opinion/</link>
       <pubDate>Wed, 24 Jun 2020 12:00:23 +0530</pubDate>
       
-      <guid>https://pnijhara.me/categories/unpopular-opinion/</guid>
+      <guid>https://pnijhara.github.io/categories/unpopular-opinion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Report</title>
-      <link>https://pnijhara.me/categories/report/</link>
+      <link>https://pnijhara.github.io/categories/report/</link>
       <pubDate>Sun, 10 May 2020 03:31:58 +0530</pubDate>
       
-      <guid>https://pnijhara.me/categories/report/</guid>
+      <guid>https://pnijhara.github.io/categories/report/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SIH</title>
-      <link>https://pnijhara.me/categories/sih/</link>
+      <link>https://pnijhara.github.io/categories/sih/</link>
       <pubDate>Sat, 04 Jan 2020 02:50:26 +0530</pubDate>
       
-      <guid>https://pnijhara.me/categories/sih/</guid>
+      <guid>https://pnijhara.github.io/categories/sih/</guid>
       <description></description>
     </item>
     
     <item>
       <title>announcements</title>
-      <link>https://pnijhara.me/categories/announcements/</link>
+      <link>https://pnijhara.github.io/categories/announcements/</link>
       <pubDate>Tue, 24 Dec 2019 23:39:06 +0530</pubDate>
       
-      <guid>https://pnijhara.me/categories/announcements/</guid>
+      <guid>https://pnijhara.github.io/categories/announcements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Future</title>
-      <link>https://pnijhara.me/categories/future/</link>
+      <link>https://pnijhara.github.io/categories/future/</link>
       <pubDate>Tue, 24 Dec 2019 23:39:06 +0530</pubDate>
       
-      <guid>https://pnijhara.me/categories/future/</guid>
+      <guid>https://pnijhara.github.io/categories/future/</guid>
       <description></description>
     </item>
     
     <item>
       <title>my thoughts</title>
-      <link>https://pnijhara.me/categories/my-thoughts/</link>
+      <link>https://pnijhara.github.io/categories/my-thoughts/</link>
       <pubDate>Sun, 08 Sep 2019 01:37:51 +0530</pubDate>
       
-      <guid>https://pnijhara.me/categories/my-thoughts/</guid>
+      <guid>https://pnijhara.github.io/categories/my-thoughts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>offtopic</title>
-      <link>https://pnijhara.me/categories/offtopic/</link>
+      <link>https://pnijhara.github.io/categories/offtopic/</link>
       <pubDate>Sun, 08 Sep 2019 01:37:51 +0530</pubDate>
       
-      <guid>https://pnijhara.me/categories/offtopic/</guid>
+      <guid>https://pnijhara.github.io/categories/offtopic/</guid>
       <description></description>
     </item>
     
