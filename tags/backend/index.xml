@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Backend on pnijhara&#39;s blog</title>
+    <link>https://pnijhara.github.io/tags/backend/</link>
+    <description>Recent content in Backend on pnijhara&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Aug 2020 20:56:52 +0530</lastBuildDate>
+    
+	<atom:link href="https://pnijhara.github.io/tags/backend/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Announcement: Python Backend blog series with FastAPI</title>
+      <link>https://pnijhara.github.io/2020/08/announcement-python-backend-blog-series-with-fastapi/</link>
+      <pubDate>Mon, 10 Aug 2020 20:56:52 +0530</pubDate>
+      
+      <guid>https://pnijhara.github.io/2020/08/announcement-python-backend-blog-series-with-fastapi/</guid>
+      <description>Perhaps more than any other language, Python has established itself as a solid tool to do almost anything. Where Python really shines, however, is in its various packages that extend the language into hundreds of use cases.
+With this, this blog series will focus on building a strong and easily maintainable API with FastAPI framework of Python. I&amp;rsquo;ll be specifically focusing on best practices that every developer should must follow.</description>
+    </item>
+    
+  </channel>
+</rss>
