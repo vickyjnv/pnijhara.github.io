@@ -6,10 +6,21 @@
     <description>Recent content in Tech on pnijhara&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2020 20:56:52 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2020 10:00:02 +0530</lastBuildDate>
     
 	<atom:link href="https://pnijhara.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What is an API, JSON or XML?</title>
+      <link>https://pnijhara.github.io/2020/08/what-is-an-api-json-or-xml/</link>
+      <pubDate>Tue, 11 Aug 2020 10:00:02 +0530</pubDate>
+      
+      <guid>https://pnijhara.github.io/2020/08/what-is-an-api-json-or-xml/</guid>
+      <description>API1 or the Application Programming interface is the middlepoint between App2 and data or it is a gateway to DataBase.
+API governs the access point(s) for the server, that means instead of directly sending request to DataBase, API checks your identity and type of request and pass it through some logic filter and then reflect your request/change to the DataBase.
+From the above diagram you can clearly see that, every request passes through a middleware(API) and then API performs some action/ checks validation and pass your request to DataBase to let it give you your desired response.</description>
+    </item>
     
     <item>
       <title>Announcement: Python Backend blog series with FastAPI</title>
