@@ -6,10 +6,20 @@
     <description>Recent content in Python on pnijhara&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2020 10:00:02 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2020 13:56:18 +0530</lastBuildDate>
     
 	<atom:link href="https://pnijhara.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HTTP Methods and Status Code</title>
+      <link>https://pnijhara.github.io/2020/08/http-methods-and-status-code/</link>
+      <pubDate>Tue, 18 Aug 2020 13:56:18 +0530</pubDate>
+      
+      <guid>https://pnijhara.github.io/2020/08/http-methods-and-status-code/</guid>
+      <description>Before we begin coding, we must know basics about internet, specifically communication with API. We already covered our basics about APIs in the previous blog on &amp;ldquo;What is API, JSON or XML?&amp;quot;. It is now time to cover HTTP.
+Communication between clients and server (which is our API) is done by HTTP(Hyper Text Transfer Protocol) requests and response. Every time client wants to perform some action on Database, it sends HTTP request to server and server in back respond by HTTP response.</description>
+    </item>
     
     <item>
       <title>What is an API, JSON or XML?</title>

@@ -7,44 +7,48 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Hugo 0.68.3 with theme Tranquilpeak 0.4.8-BETA">
 <meta name="author" content="Prajjwal Nijhara">
-<meta name="keywords" content="tech, Prajjwal Nijhara, pnijhara, The pnijhara Blog, The official blog of Prajjwal Nijhara">
-<meta name="description" content="Well, I am not writing this blog because I have used Hugo for making my website. It is just that I wanted to compare the powers of Hugo and Jekyll. There is a whole list of static site generators you can use and some of them are listed here. However, I am just comparing these 2 as they are widely used.
- NOTE: I too don&rsquo;t know why I chose Hugo over Jekyll for making this website.">
+<meta name="keywords" content="FastAPI, Python, Prajjwal Nijhara, pnijhara, The pnijhara Blog, The official blog of Prajjwal Nijhara">
+<meta name="description" content="Before we begin coding, we must know basics about internet, specifically communication with API. We already covered our basics about APIs in the previous blog on &ldquo;What is API, JSON or XML?&quot;. It is now time to cover HTTP.
+Communication between clients and server (which is our API) is done by HTTP(Hyper Text Transfer Protocol) requests and response. Every time client wants to perform some action on Database, it sends HTTP request to server and server in back respond by HTTP response.">
 
 
-<meta property="og:description" content="Well, I am not writing this blog because I have used Hugo for making my website. It is just that I wanted to compare the powers of Hugo and Jekyll. There is a whole list of static site generators you can use and some of them are listed here. However, I am just comparing these 2 as they are widely used.
- NOTE: I too don&rsquo;t know why I chose Hugo over Jekyll for making this website.">
+<meta property="og:description" content="Before we begin coding, we must know basics about internet, specifically communication with API. We already covered our basics about APIs in the previous blog on &ldquo;What is API, JSON or XML?&quot;. It is now time to cover HTTP.
+Communication between clients and server (which is our API) is done by HTTP(Hyper Text Transfer Protocol) requests and response. Every time client wants to perform some action on Database, it sends HTTP request to server and server in back respond by HTTP response.">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Hugo vs Jekyll: A comparison based on personal usage">
-<meta name="twitter:title" content="Hugo vs Jekyll: A comparison based on personal usage">
-<meta property="og:url" content="https://pnijhara.github.io/2020/01/hugo-vs-jekyll-a-comparison-based-on-personal-usage/">
-<meta property="twitter:url" content="https://pnijhara.github.io/2020/01/hugo-vs-jekyll-a-comparison-based-on-personal-usage/">
+<meta property="og:title" content="HTTP Methods and Status Code">
+<meta name="twitter:title" content="HTTP Methods and Status Code">
+<meta property="og:url" content="https://pnijhara.github.io/2020/08/http-methods-and-status-code/">
+<meta property="twitter:url" content="https://pnijhara.github.io/2020/08/http-methods-and-status-code/">
 <meta property="og:site_name" content="pnijhara&#39;s blog">
-<meta property="og:description" content="Well, I am not writing this blog because I have used Hugo for making my website. It is just that I wanted to compare the powers of Hugo and Jekyll. There is a whole list of static site generators you can use and some of them are listed here. However, I am just comparing these 2 as they are widely used.
- NOTE: I too don&rsquo;t know why I chose Hugo over Jekyll for making this website.">
-<meta name="twitter:description" content="Well, I am not writing this blog because I have used Hugo for making my website. It is just that I wanted to compare the powers of Hugo and Jekyll. There is a whole list of static site generators you can use and some of them are listed here. However, I am just comparing these 2 as they are widely used.
- NOTE: I too don&rsquo;t know why I chose Hugo over Jekyll for making this website.">
+<meta property="og:description" content="Before we begin coding, we must know basics about internet, specifically communication with API. We already covered our basics about APIs in the previous blog on &ldquo;What is API, JSON or XML?&quot;. It is now time to cover HTTP.
+Communication between clients and server (which is our API) is done by HTTP(Hyper Text Transfer Protocol) requests and response. Every time client wants to perform some action on Database, it sends HTTP request to server and server in back respond by HTTP response.">
+<meta name="twitter:description" content="Before we begin coding, we must know basics about internet, specifically communication with API. We already covered our basics about APIs in the previous blog on &ldquo;What is API, JSON or XML?&quot;. It is now time to cover HTTP.
+Communication between clients and server (which is our API) is done by HTTP(Hyper Text Transfer Protocol) requests and response. Every time client wants to perform some action on Database, it sends HTTP request to server and server in back respond by HTTP response.">
 <meta property="og:locale" content="en-us">
 
   
-    <meta property="article:published_time" content="2020-01-01T10:29:28">
+    <meta property="article:published_time" content="2020-08-18T13:56:18">
   
   
-    <meta property="article:modified_time" content="2020-01-01T10:29:28">
+    <meta property="article:modified_time" content="2020-08-18T13:56:18">
   
-  
-  
-    
-      <meta property="article:section" content="blog">
-    
-      <meta property="article:section" content="Random discovery">
-    
   
   
     
-      <meta property="article:tag" content="hugo blog">
+      <meta property="article:section" content="Tech">
     
-      <meta property="article:tag" content="jekyll blog">
+      <meta property="article:section" content="Python">
+    
+  
+  
+    
+      <meta property="article:tag" content="Python">
+    
+      <meta property="article:tag" content="FastAPI">
+    
+      <meta property="article:tag" content="Backend">
+    
+      <meta property="article:tag" content="Best Practices">
     
   
 
@@ -61,12 +65,12 @@
 
 
 
-  <meta property="og:image" content="https://pnijhara.github.io/img/thumbnail/blog5.jpg">
-  <meta property="twitter:image" content="https://pnijhara.github.io/img/thumbnail/blog5.jpg">
+  <meta property="og:image" content="https://pnijhara.github.io/img/thumbnail/blog11.png">
+  <meta property="twitter:image" content="https://pnijhara.github.io/img/thumbnail/blog11.png">
 
 
-  <meta property="og:image" content="https://pnijhara.github.io/img/thumbnail/blog5.jpg">
-  <meta property="twitter:image" content="https://pnijhara.github.io/img/thumbnail/blog5.jpg">
+  <meta property="og:image" content="https://pnijhara.github.io/img/thumbnail/blog11.png">
+  <meta property="twitter:image" content="https://pnijhara.github.io/img/thumbnail/blog11.png">
 
 
 
@@ -75,14 +79,14 @@
   <meta property="twitter:image" content="https://pnijhara.github.io/img/profile/pnijhara.jpg">
 
 
-    <title>Hugo vs Jekyll: A comparison based on personal usage</title>
+    <title>HTTP Methods and Status Code</title>
 
     <link rel="icon" href="img/favicon.png">
     
 
     
 
-    <link rel="canonical" href="https://pnijhara.github.io/2020/01/hugo-vs-jekyll-a-comparison-based-on-personal-usage/">
+    <link rel="canonical" href="https://pnijhara.github.io/2020/08/http-methods-and-status-code/">
 
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
@@ -277,7 +281,7 @@ if (!doNotTrack) {
   <div class="post-header-cover
               text-center
               "
-       style="background-image:url('/img/thumbnail/blog5.jpg')"
+       style="background-image:url('/img/thumbnail/blog11.png')"
        data-behavior="5">
     
   </div>
@@ -293,15 +297,15 @@ if (!doNotTrack) {
             <div class="post-header main-content-wrap text-center">
   
     <h1 class="post-title" itemprop="headline">
-      Hugo vs Jekyll: A comparison based on personal usage
+      HTTP Methods and Status Code
     </h1>
   
   
   <div class="postShorten-meta post-meta">
     
-      <time itemprop="datePublished" datetime="2020-01-01T10:29:28&#43;05:30">
+      <time itemprop="datePublished" datetime="2020-08-18T13:56:18&#43;05:30">
         
-  January 1, 2020
+  August 18, 2020
 
       </time>
     
@@ -310,9 +314,9 @@ if (!doNotTrack) {
   
     <span>in</span>
     
-      <a class="category-link" href="https://pnijhara.github.io/categories/blog">blog</a>, 
+      <a class="category-link" href="https://pnijhara.github.io/categories/tech">Tech</a>, 
     
-      <a class="category-link" href="https://pnijhara.github.io/categories/random-discovery">Random discovery</a>
+      <a class="category-link" href="https://pnijhara.github.io/categories/python">Python</a>
     
   
 
@@ -322,66 +326,90 @@ if (!doNotTrack) {
           
           <div class="post-content markdown" itemprop="articleBody">
             <div class="main-content-wrap">
-              <p>Well, I am not writing this blog because I have used Hugo for making my website. It is just that I wanted    to compare the powers of Hugo and Jekyll. There is a whole list of static site generators you can use and some of them are listed <a href="https://www.creativebloq.com/features/10-best-static-site-generators">here</a>. However, I am just comparing these 2 as they are widely used.</p>
-<blockquote>
-<p>NOTE: I too don&rsquo;t know why I chose Hugo over Jekyll for making this website.</p>
-</blockquote>
-<h3 id="what-is-a-static-site-generator">What is a static site generator?</h3>
-<p>First of all, let us know what is a static site generator. So, static site generators as the name suggest are simply website generators that take content, typically stored in flat files rather than databases, apply it against layouts or templates and generate a structure of purely static HTML files that are ready to be delivered.</p>
-<p>To know more about the advantages and disadvantages of static site generators, read <a href="https://davidwalsh.name/introduction-static-site-generators">Davidwalsh&rsquo;s blog</a>.</p>
-<h3 id="what-is-hugo">What is Hugo?</h3>
-<p>Hugo is a static site generator written in Go. It is optimized for speed, easy use and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website. Hugo makes use of markdown files with front matter for metadata.</p>
-<h3 id="what-is-jekyll">What is Jekyll?</h3>
-<p>Jekyll is a file-based content management system written in ruby. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind GitHub Pages, which you can use to host sites right from your GitHub repositories.</p>
-<h3 id="heading"></h3>
-<h4 id="heading-1"></h4>
+              <p>Before we begin coding, we must know basics about internet, specifically communication with API. We already covered our basics about APIs in the previous blog on <a href="https://pnijhara.github.io/2020/08/what-is-an-api-json-or-xml/">&ldquo;What is API, JSON or XML?&quot;</a>. It is now time to cover HTTP.</p>
+<p>Communication between clients and server (which is our API) is done by HTTP(Hyper Text Transfer Protocol) requests and response. Every time client wants to perform some action on Database, it sends HTTP request to server and server in back respond by HTTP response.
+blog
+<img src="http://vidyakv.files.wordpress.com/2011/12/cs-120-3-3341.png" alt="Request and response"></p>
+<p>From the above diagram it is clear that server responds only if client makes a request.</p>
+<p>HTTP is a communication protocol. There can be other protocols such as SMTP, FTP etc. Read more them about <a href="https://en.wikipedia.org/wiki/Lists_of_network_protocols">here</a></p>
+<p>HTTP has some parts which are actively used in Backend Development.</p>
+<ol>
+<li>
+<p><strong>Methods</strong>: GET, PUT, POST, DELETE, etc. Best practice is to use these standard types. You can create your own types but it not recommended. We&rsquo;ll talk about HTTP methods in detail below.</p>
+</li>
+<li>
+<p><strong>Headers</strong>: Every HTTP request contains headers. HTTP headers let the client and the server pass additional information with an HTTP request or response. An HTTP header consists of its case-insensitive name followed by a colon (:), then by its value. Whitespace before the value is ignored. HTTP helps in:</p>
+<ul>
+<li>Authentication</li>
+<li>Caching</li>
+<li>Client Hints</li>
+<li>Connection Management</li>
+<li>Cookie Handling and much more</li>
+</ul>
+<p>This is how Request-headers look like</p>
+<p><img src="https://pnijhara.github.io/img/blog11-pic1.png" alt="Request-headers"></p>
+<p>And this is how a Response-header look like</p>
+<p><img src="https://pnijhara.github.io/img/blog11-pic2.png" alt="Response-header"></p>
+</li>
+<li>
+<p><strong>Payload</strong>: The payload is the part of that response that is communicating directly to you. In REST APIs this is usually some JSON formatted data. The payload is the part of that response that is communicating directly to you. In REST APIs this is usually some JSON formatted data.</p>
+</li>
+</ol>
+<h2 id="http-methods">HTTP Methods</h2>
+<p>REST APIs enable you to develop any kind of web application having all possible CRUD (create, retrieve, update, delete) operations. REST guidelines suggest using a specific HTTP method on a particular type of call made to the server (though technically it is possible to violate this guideline, yet again it is highly discouraged).</p>
+<p>Let us understand the different HTTP methods with the help of following table:</p>
 <table>
 <thead>
 <tr>
-<th>Hugo</th>
-<th>Jekyll</th>
+<th>GET</th>
+<th>POST</th>
+<th>DELETE</th>
+<th>UPDATE</th>
+<th>PATCH</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Go programming Language</td>
-<td>Ruby programming language</td>
+<td>No payload</td>
+<td>Has Payload</td>
+<td>No payload</td>
+<td>Has Payload</td>
+<td>Has Payload</td>
 </tr>
 <tr>
-<td>lightning Fast</td>
-<td>Not as fast as Hugo</td>
+<td>To fetch data</td>
+<td>To insert data</td>
+<td>To delete data</td>
+<td>To update data</td>
+<td>To update som part of data</td>
 </tr>
 <tr>
-<td>Easy to set up</td>
-<td>Easy to set up but not as easy as Hugo</td>
-</tr>
-<tr>
-<td>Easy to deploy</td>
-<td>Easy to deploy</td>
-</tr>
-<tr>
-<td>No plugins/extensions for free themes</td>
-<td>Highly customisable and high support of plugins</td>
-</tr>
-<tr>
-<td>Open source</td>
-<td>Open Source</td>
-</tr>
-<tr>
-<td>No Github integration</td>
-<td>Github integration</td>
-</tr>
-<tr>
-<td>Supports TOML, YAML and JSON</td>
-<td>Supports the only YAML for front matter</td>
-</tr>
-<tr>
-<td>Fast builds</td>
-<td>Slow builds</td>
+<td>Does not change database</td>
+<td>Change database</td>
+<td>Change database</td>
+<td>Change database</td>
+<td>Change database</td>
 </tr>
 </tbody>
 </table>
-<p>So, these were some of the basic comparisons I made while using them in creating my static sites. There is still one more important comparison that is <em>Asset Pipeline</em> which I will try to cover in my upcoming blogs.</p>
+<p>We&rsquo;ll cover these methods practically in upcoming blogs.</p>
+<h2 id="http-status-code">HTTP Status Code</h2>
+<p>Whenever server respond to client, it also respond with a status code so that the client can understand the status of the code.</p>
+<ul>
+<li>1** : Informative</li>
+<li>2** : Success</li>
+<li>3** : Redirection</li>
+<li>4** : Client Error</li>
+<li>5** : Server Error</li>
+</ul>
+<p>Read about all the HTTP status codes in <a href="https://en.wikipedia.org/wiki/List_of_HTTP_status_codes">Wikipedia&rsquo;s article on HTTP status code</a></p>
+<hr>
+<h2 id="references">References</h2>
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers">MDN Headers</a></li>
+<li><a href="https://restfulapi.net/http-methods/">restfulapi.net/http-methods</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_HTTP_status_codes">Wikipedia&rsquo;s article on HTTP status code</a></li>
+</ul>
 
               
             </div>
@@ -394,9 +422,13 @@ if (!doNotTrack) {
                   <div class="post-footer-tags">
                     <span class="text-color-light text-small">TAGGED IN</span><br/>
                     
-  <a class="tag tag--primary tag--small" href="https://pnijhara.github.io/tags/hugo-blog/">hugo blog</a>
+  <a class="tag tag--primary tag--small" href="https://pnijhara.github.io/tags/python/">Python</a>
 
-  <a class="tag tag--primary tag--small" href="https://pnijhara.github.io/tags/jekyll-blog/">jekyll blog</a>
+  <a class="tag tag--primary tag--small" href="https://pnijhara.github.io/tags/fastapi/">FastAPI</a>
+
+  <a class="tag tag--primary tag--small" href="https://pnijhara.github.io/tags/backend/">Backend</a>
+
+  <a class="tag tag--primary tag--small" href="https://pnijhara.github.io/tags/best-practices/">Best Practices</a>
 
                   </div>
                 
@@ -409,7 +441,7 @@ if (!doNotTrack) {
           
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--default tooltip--top" href="https://pnijhara.github.io/2020/01/journey-to-sih-19/" data-tooltip="Journey to SIH-19">
+                <a class="post-action-btn btn btn--disabled">
               
                   <i class="fa fa-angle-left"></i>
                   <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
@@ -417,7 +449,7 @@ if (!doNotTrack) {
             </li>
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--default tooltip--top" href="https://pnijhara.github.io/2019/12/roc-special-thanks/" data-tooltip="ROC &amp; Special Thanks">
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://pnijhara.github.io/2020/08/what-is-an-api-json-or-xml/" data-tooltip="What is an API, JSON or XML?">
               
                   <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
                   <i class="fa fa-angle-right"></i>
@@ -435,13 +467,13 @@ if (!doNotTrack) {
         </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://pnijhara.github.io/2020/01/hugo-vs-jekyll-a-comparison-based-on-personal-usage/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://pnijhara.github.io/2020/08/http-methods-and-status-code/">
               <i class="fa fa-facebook-official"></i>
             </a>
           </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://pnijhara.github.io/2020/01/hugo-vs-jekyll-a-comparison-based-on-personal-usage/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://pnijhara.github.io/2020/08/http-methods-and-status-code/">
               <i class="fa fa-twitter"></i>
             </a>
           </li>
@@ -489,7 +521,7 @@ if (!doNotTrack) {
           
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--default tooltip--top" href="https://pnijhara.github.io/2020/01/journey-to-sih-19/" data-tooltip="Journey to SIH-19">
+                <a class="post-action-btn btn btn--disabled">
               
                   <i class="fa fa-angle-left"></i>
                   <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
@@ -497,7 +529,7 @@ if (!doNotTrack) {
             </li>
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--default tooltip--top" href="https://pnijhara.github.io/2019/12/roc-special-thanks/" data-tooltip="ROC &amp; Special Thanks">
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://pnijhara.github.io/2020/08/what-is-an-api-json-or-xml/" data-tooltip="What is an API, JSON or XML?">
               
                   <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
                   <i class="fa fa-angle-right"></i>
@@ -515,13 +547,13 @@ if (!doNotTrack) {
         </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://pnijhara.github.io/2020/01/hugo-vs-jekyll-a-comparison-based-on-personal-usage/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://pnijhara.github.io/2020/08/http-methods-and-status-code/">
               <i class="fa fa-facebook-official"></i>
             </a>
           </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://pnijhara.github.io/2020/01/hugo-vs-jekyll-a-comparison-based-on-personal-usage/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://pnijhara.github.io/2020/08/http-methods-and-status-code/">
               <i class="fa fa-twitter"></i>
             </a>
           </li>
@@ -551,13 +583,13 @@ if (!doNotTrack) {
   <ul class="share-options">
     
       <li class="share-option">
-        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fpnijhara.github.io%2F2020%2F01%2Fhugo-vs-jekyll-a-comparison-based-on-personal-usage%2F">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fpnijhara.github.io%2F2020%2F08%2Fhttp-methods-and-status-code%2F">
           <i class="fa fa-facebook-official"></i><span>Share on Facebook</span>
         </a>
       </li>
     
       <li class="share-option">
-        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fpnijhara.github.io%2F2020%2F01%2Fhugo-vs-jekyll-a-comparison-based-on-personal-usage%2F">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fpnijhara.github.io%2F2020%2F08%2Fhttp-methods-and-status-code%2F">
           <i class="fa fa-twitter"></i><span>Share on Twitter</span>
         </a>
       </li>
@@ -649,9 +681,9 @@ $(document).ready(function() {
     
       <script>
         var disqus_config = function () {
-          this.page.url = 'https:\/\/pnijhara.github.io\/2020\/01\/hugo-vs-jekyll-a-comparison-based-on-personal-usage\/';
+          this.page.url = 'https:\/\/pnijhara.github.io\/2020\/08\/http-methods-and-status-code\/';
           
-            this.page.identifier = '\/2020\/01\/hugo-vs-jekyll-a-comparison-based-on-personal-usage\/'
+            this.page.identifier = '\/2020\/08\/http-methods-and-status-code\/'
           
         };
         (function() {
