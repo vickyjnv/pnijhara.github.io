@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="generator" content="Hugo 0.68.3 with theme Tranquilpeak 0.4.8-BETA">
+<meta name="generator" content="Hugo 0.74.3 with theme Tranquilpeak 0.4.8-BETA">
 <meta name="author" content="Prajjwal Nijhara">
 <meta name="keywords" content="tech, Prajjwal Nijhara, pnijhara, The pnijhara Blog, The official blog of Prajjwal Nijhara">
 <meta name="description" content="In the last article, I tried to cover almost every point required for creating your blog. However, there are still some points left which remain uncovered in the previous section.
@@ -334,7 +334,7 @@ if (!doNotTrack) {
 <p>Most of the time I read questions on the internet of people asking that even after creating or copying the config.toml file there project fails to start or if starts it does not work properly.
 The solution is very very simple. In many themes of Hugo there occurs a line in config.toml stating <code>themesdir = &quot;../..&quot;</code> just remove that and check that the name of the theme in the file matches with the name of the directory of the theme which you copied as in the previous article.</p>
 <p>See line number 3 in the following image
-<img src="https://pnijhara.github.io/img/blog2-pic1.png" alt="Project skeleton"></p>
+<img src="https://pnijhara.github.io/img/uncovered-points/blog2-pic1.png" alt="Project skeleton"></p>
 <h3 id="point-2">Point 2</h3>
 <p>The worst problem that I faced with Hugo is this one only. Well, the steps are pretty simple for a new post:</p>
 <ol>
@@ -349,10 +349,10 @@ The solution is very very simple. In many themes of Hugo there occurs a line in 
 </li>
 </ol>
 <p>Now the problem here arises that it will not show your article on your localhost. The reason lies in the line number 3 (see the figure) (Note: line number may vary with theme). It states <code>draft: true</code> which means that your post is in draft condition or simply for testing purpose. For checking your draft posts on localhost you can type <code>hugo server -D</code> (here -D means &ndash;buildDrafts that includes content marked as a draft). Now if you feel satisfied with your post and are now ready to publish it just make <code>draft: false</code>.</p>
-<p><img src="https://pnijhara.github.io/img/blog2-pic2.png" alt="Project skeleton"></p>
+<p><img src="https://pnijhara.github.io/img/uncovered-points/blog2-pic2.png" alt="Project skeleton"></p>
 <h3 id="point-3">Point 3</h3>
 <p>In your config.toml file you may somehow encounter with line baseurl = <a href="http://example.com/">http://example.com/</a>. Correct it by writing your website name, for example, baseurl = <a href="https://username.github.io">https://username.github.io</a>.
-<img src="https://pnijhara.github.io/img/blog2-pic3.png" alt="Project skeleton"></p>
+<img src="https://pnijhara.github.io/img/uncovered-points/blog2-pic3.png" alt="Project skeleton"></p>
 <p>These set of points must help you while writing your blog with Hugo.</p>
 <p>Do tell me your opinions on these points. Also, if you feel some other problems while writing your blog with Hugo do let me know I will try to cover them in my upcoming posts.</p>
 
